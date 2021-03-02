@@ -1,0 +1,13 @@
+.monster-card {
+
+    border-width: 2px;
+    border-style: solid;
+    border-collapse: collapse;
+    border-color: darkgreen;
+    padding-block: 5px;
+}
+
+.monster-form-container {
+    padding-bottom: 10px;
+    box-align: center;
+}
